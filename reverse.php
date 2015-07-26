@@ -10,7 +10,6 @@ echo "The reverse of the input string is : ";
 echo "------------------------------------- ";
 echo strrev($_GET['input']);
   
-//comment 
   
   
   
